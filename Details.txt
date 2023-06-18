@@ -54,8 +54,12 @@ React:
 
     css
 
-  Simple Component Creation:
-    render area JSX 
+Task:
+Sample Link -> https://startbootstrap.com/snippets/pricing-table 
+
+Blue Color layout with Inner Cards Only
+
+You can use bootstrap css
   
   
 
