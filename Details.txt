@@ -1,4 +1,3 @@
-
 Recap:
   ES5 vs Es6
 
@@ -53,6 +52,15 @@ React:
       {} is used to use variable or expression inside jsx
 
     css
+
+Github Link for React App Codes:
+
+https://github.com/sanjaysaravanan/b4445we-react
+
+Local Run:
+  1. clone the repo
+  2. **npm instal** in root dir
+  3. **npm start** in root dir
 
 Task:
 Sample Link -> https://startbootstrap.com/snippets/pricing-table 
